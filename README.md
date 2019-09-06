@@ -1,1 +1,1 @@
-# angular-srw18c-mzpeyu
+# Angular sample store app
